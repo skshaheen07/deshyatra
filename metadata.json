@@ -1,0 +1,6 @@
+{
+  "name": "DeshYatra — Discover India Your Way",
+  "description": "Discover India's destinations, cultures and experiences with personalized travel recommendations and smart itinerary planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
